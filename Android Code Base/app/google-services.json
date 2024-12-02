@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763311030262",
+    "firebase_url": "https://swiftcart-c6125-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "swiftcart-c6125",
+    "storage_bucket": "swiftcart-c6125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763311030262:android:5830c391c14c15f55ad1d7",
+        "android_client_info": {
+          "package_name": "com.example.swiftcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763311030262-4smrao0eoijfqfg1ug1jak6pvu0vvggn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxX-EMefHmcE1gqVaVDpCDWx-f_O7vGQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763311030262-4smrao0eoijfqfg1ug1jak6pvu0vvggn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

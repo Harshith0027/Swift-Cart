@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SwiftCart</string>
+    <string name="signup_to_login"><u>Already have account? Login</u></string>
+    <string name="login_to_signup"><u>Didn\'t have Account? Signup</u></string>
+    <string name="forgot_password">Forgot Password? Reset.</string>
+</resources>
